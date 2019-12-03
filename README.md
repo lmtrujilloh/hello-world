@@ -1,2 +1,6 @@
 # hello-world
-Just another Repository
+
+Lady Marcela Trujillo Herrera
+Ingeniera de Sistemas y Computación 
+Analista de Calidad 
+NewTownTech Zomac
